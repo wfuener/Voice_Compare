@@ -4,7 +4,7 @@ A Python script for comparing two voice samples using ECAPA-TDNN speaker embeddi
 High level overview of the script:
 1. Downloads the hardcoded videos off youtube and places them in the `../data` directory.
 2. Extracts the audio from the video
-3. 
+3. Create a vector of speaker embeddings and compare 
 
 
 ## System Requirements
